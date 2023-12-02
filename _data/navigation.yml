@@ -16,14 +16,14 @@ main:
   # - title: "Blog"
   #  url: /year-archive/
       
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
   
   - title: "CV"
     url: /cv/
   
-   - title: "Slides and presentations"
-     url: /slides/
+ #  - title: "Slides and presentations"
+ #    url: /slides/
 
  #  - title: "Writing"
  #   url: /writing/
