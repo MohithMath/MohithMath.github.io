@@ -22,8 +22,11 @@ main:
   - title: "CV"
     url: /cv/
   
-  # - title: "Interesting Stuff"
-  #  url: /stuff/
+   - title: "Talks and presentations"
+    url: /stuff/
+
+   - title: "Writing"
+    url: /stuff/
   
   #- title: "Misc"
   #  url: /misc/
