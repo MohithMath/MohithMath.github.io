@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Mohith Raju Nagaraju"
   avatar           : "deep-patel-dp.jpg"
-  bio              : "1<sup>st</sup> year Masters student at <br> Department of Mathematics" # 3<sup>rd</sup>
+  bio              : "1<sup>st</sup> year Masters student at <br> Indian Institute of Science" # 3<sup>rd</sup>
   location         : # "C-235, Learning Systems <br /> and Multimedia Lab"
   employer         : "Indian Institute of Science"
   googlescholar    : 
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         : # "raghavsomani95"
   foursquare       :
-  github           : "MohithRajuNagaraju"
+  github           : #"MohithRajuNagaraju"
   google_plus      :
   keybase          :
   instagram        :
