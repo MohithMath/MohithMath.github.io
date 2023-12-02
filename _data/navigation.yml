@@ -22,8 +22,8 @@ main:
   - title: "CV"
     url: /cv/
   
- #  - title: "Slides and presentations"
-  #  url: /slides/
+   - title: "Slides and presentations"
+     url: /slides/
 
  #  - title: "Writing"
  #   url: /writing/
