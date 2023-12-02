@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deep Patel"
+title                    : "Mohith Raju Nagaraju"
 title_separator          : "-"
 name                     : &name "Mohith Raju Nagaraju"
 description              : &description "M.Sc \n IISc"
@@ -239,6 +239,22 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: slides
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: writing
     values:
       layout: single
       author_profile: true
