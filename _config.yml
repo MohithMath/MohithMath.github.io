@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Mohith Raju Nagaraju"
   avatar           : "MohithMath.jpg"
-  bio              : "Masters student at the <br> Indian Institute of Science (IISc)" # 3<sup>rd</sup>
+  bio              : "Masters student at <br> Indian Institute of Science (IISc)" # 3<sup>rd</sup>
   location         : # "C-235, Learning Systems <br /> and Multimedia Lab"
   employer         : "Indian Institute of Science"
   googlescholar    : 
