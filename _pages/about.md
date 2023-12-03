@@ -14,7 +14,7 @@ Previously, I worked on conformal tilings and their existence on Riemann surface
 
 Before that, I spent a year as a Project Assistant at [SPIRE Lab, IISc](https://spire.ee.iisc.ac.in/spire/){:target="_blank"} where I was advised by [Prof. Prasanta Kumar Ghosh](https://ee.iisc.ac.in/prasanta-kumar-ghosh/){:target="_blank"} on speech-based automated disease onset detection and severity prediction of Amyotrophic Lateral Sclerosis (ALS) and Parkinson's Disease.
 
-Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
+Here is my [__Curriculum Vitae__](\files\CV_Mohith_Raju_Nagaraju.pdf){: .btn .btn--inverse}
 
 Contact me at `mohithraju[at]iisc[dot]ac.in`.
 <!--- I am also exploring the robustness properties of mammalian vision-inspired feedback mechanisms for deep neural networks. --->
