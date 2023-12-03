@@ -8,7 +8,10 @@ author_profile: true
 
 * **Barrier functions and global Laplace comparison**\
 Riemannian geometry course, Nov 2023, IISc.
-[<a href="\files\CV_Mohith_Raju_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides </a>]. \
+[<a href="\files\CV_Mohith_Raju_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>]. \
 * **Principal bundles and Chern-Weil theory**\
 Gauge theory learning seminar, IISc. [<a href="\files\CV_Mohith_Raju_Nagaraju.pdf" target="_blank">slides</a>]
+[<a href="test.html" style="{color: #527bbd} 
+            :hover {color: #527bbd; text-decoration: underline}
+             ">slides</a>]
 
