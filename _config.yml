@@ -13,9 +13,9 @@ title                    : "Mohith Raju Nagaraju"
 title_separator          : "-"
 name                     : &name "Mohith Raju Nagaraju"
 description              : &description "M.Sc \n IISc"
-url                      : https://MohithRajuNagaraju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MohithMath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MohithRajuNagaraju/MohithRajuNagaraju.github.io"
+repository               : "MohithMath/MohithMath.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) (Raghav - true has some bug)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ read_more                : "enabled" # if enabled, adds "Read more" links to exc
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "deeppatel"
+    shortname            : "MohithMath"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohith Raju Nagaraju"
-  avatar           : "deep-patel-dp.jpg"
+  avatar           : "MohithMath.jpg"
   bio              : "1<sup>st</sup> year Masters student at <br> Indian Institute of Science" # 3<sup>rd</sup>
   location         : # "C-235, Learning Systems <br /> and Multimedia Lab"
   employer         : "Indian Institute of Science"
