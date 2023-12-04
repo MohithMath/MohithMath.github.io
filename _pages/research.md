@@ -5,11 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-####Preprint####
+#### Preprint
+
 * **Conformal Tilings, Combinatorial Curvature, and the Type Problem** \
   [<a href="https://arxiv.org/abs/2311.08233" target="_blank" style="color: #527bbd; text-decoration: underline">arXiv:2311.08233</a>] (submitted)
 
-####Projects####
+#### Projects
+
 * **Gauge theory and Kapustin-Witten equations** \
   Starting from de Rham and Hodge and continuing into Donaldson, studying the solutions of certain equations over a manifold has yielded valuable information about its topological and smooth structure. The goal of my project is to study the conjectural relationship between the Kapustin-Witten equations and the colored Jones polynomial. So far, I have studied the Yang-Mills equations, the ADHM construction of ASD connections, and Uhlenbeck’s analytic results on gauge fixing and compactness of sequence of Yang-Mills connections. Next, I am studying the Bogomolny equation for magnetic monopoles, Hitchin’s equations, and Seiberg-Witten theory. \
   [<a href="https://arxiv.org/abs/2311.08233" target="_blank" style="color: #527bbd; text-decoration: underline">report</a>] - gives a glimpse of Yang-Mills theory and ADHM construction of ASD connections.
