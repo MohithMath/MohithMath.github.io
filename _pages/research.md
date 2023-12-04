@@ -23,7 +23,7 @@ author_profile: true
   [<a href="/files/Conformal_tilings_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>] - introduces conformal tilings using examples and properties.
 
 * **Complex dynamics** \
-  Complex dynamics is the study of the dynamics of points on a Riemann surface under the repeated application of a holomorphic map. I studied local fixed point theory (dynamics of points near a fixed point) and global theory (properties and characteristics of sets of points with similar dynamics) from Milnor's book, 'Dynamics in One Complex Variable.’.\
+  Complex dynamics is the study of the dynamics of points on a Riemann surface under the repeated application of a holomorphic map. I studied local fixed point theory (dynamics of points near a fixed point) and global theory (properties and characteristics of sets of points with similar dynamics) from Milnor's book, 'Dynamics in One Complex Variable.’\
   [<a href="/files/A_glimpse_into_complex_dynamics_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>] - contains a glimpse into complex dynamics and discusses Koenigs linearization.
  
 * **Riemann surfaces and the uniformization theorem** \
