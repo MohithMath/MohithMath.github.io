@@ -24,7 +24,7 @@ Students’ topology & geometry seminar (graduate students’ seminar), Jul 2023
 [<a href="/files/Discrete_Bonnet_Myers_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">notes</a>].
 * **A glimpse into complex dynamics**\
 Visiting students’ research program (VSRP), Jun 2023, TIFR, Mumbai. \
-[<a href="/files/Complex%20dynamics%20the%20study%20of%20iterated%20holomorphic%20maps.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>].
+[<a href="/files/A_glimpse_into_complex_dynamics_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>].
 * **Equilateral surfaces: combinatorics influences conformal structure**\
 Undergraduate thesis presentation, May 2023, IISc. \
 [<a href="Global_Laplace_comparison_minimum_value_principle_Nagaraju_Riemannian_geometry_2023.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>].
