@@ -15,12 +15,15 @@ main:
         
   # - title: "Blog"
   #  url: /year-archive/
+  
+  - title: "Research"
+    url: /research/ 
       
   - title: "Talks"
     url: /talks/
   
-  - title: "Writing"
-    url: /writing/
+  - title: "Notes"
+    url: /notes/
   
   - title: "CV"
     url:  /files/CV_Mohith_Raju_Nagaraju.pdf
