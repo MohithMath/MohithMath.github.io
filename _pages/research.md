@@ -28,7 +28,7 @@ author_profile: true
  
 * **Riemann surfaces and the uniformization theorem** \
   A Riemann surface is a surface whose transition maps are biholomorphic. Two Riemann surfaces that are topologically the same can be very different as Riemann surfaces. I studied the collection (moduli space) of all Riemann surfaces homeomorphic to the torus and the uniformization theorem, which states that every Riemann surface is one of three types. Also, I learnt several techniques from PDE and functional analysis to prove the uniformization theorem.\
-  [<a href="/files/An_Intro_to_Riemann_Surfaces_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>] - introduces Riemann surfaces and the uniformization theorem.
+  [<a href="/files/An_Intro_to_Riemann_Surfaces_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">slides</a>] - provides an introduction to Riemann surfaces and the uniformization theorem.
   
 
   
