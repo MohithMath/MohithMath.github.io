@@ -13,7 +13,7 @@ author_profile: true
 ## Projects
 
 * **Gauge theory and Kapustin-Witten equations** \
-  Starting from de Rham and Hodge and continuing into Donaldson, studying the solutions of certain equations over a manifold has yielded valuable information about its topological and smooth structure. The goal of my project is to study the conjectural relationship between the Kapustin-Witten equations and the colored Jones polynomial. So far, I have studied the Yang-Mills equations, the ADHM construction of ASD connections, and Uhlenbeck’s analytic results on gauge fixing and compactness of a sequence of Yang-Mills connections. Next, I am studying the Bogomolny and Hitchin equations. \
+  Starting from de Rham and Hodge and continuing into Donaldson, studying the solutions of certain equations over a manifold has yielded valuable information about its topological and smooth structure. The goal of my project is to study the conjectural relationship between the Kapustin-Witten equations and the colored Jones polynomial. So far, I have studied the Yang-Mills equations, the ADHM construction of ASD connections, and Uhlenbeck’s analytic results on gauge fixing and compactness of a sequence of Yang-Mills connections. Next, I am studying the Bogomolny and Hitchin equations, which are special cases of the Kapustin-Witten equations. \
   [<a href="/files/Gauge_theory_and_special_connections_Nagaraju.pdf" target="_blank" style="color: #527bbd; text-decoration: underline">report</a>] - gives a glimpse of Yang-Mills theory and the ADHM construction of ASD connections.
 
 * **Conformal tilings of Riemann surfaces** \
