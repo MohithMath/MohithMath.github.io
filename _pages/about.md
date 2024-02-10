@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in pure mathematics at IISc. Broadly, I am interested in geometry and analysis. Currently, I am focusing on gauge theory with the goal of studying the Kapustin-Witten equations. My mentors are Prof [Ved Datar](https://math.iisc.ac.in/~vvdatar/){:target="_blank"} and Prof [Subhojoy Gupta](https://sites.google.com/view/subhojoy/home){:target="_blank"}.
+I am a Master's student in pure mathematics at IISc. Broadly, I am interested in geometry, topology, and analysis. Currently, I am focusing on gauge theory with the goal of studying the Kapustin-Witten equations. My mentors are Prof [Ved Datar](https://math.iisc.ac.in/~vvdatar/){:target="_blank"} and Prof [Subhojoy Gupta](https://sites.google.com/view/subhojoy/home){:target="_blank"}.
 
 Here is my [__Curriculum Vitae__](\files\CV_Mohith_Raju_Nagaraju.pdf){: .btn .btn--inverse}
 
